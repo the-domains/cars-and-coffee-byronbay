@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Cars and Coffee Byron Bay - 2nd Sunday of each month]]></title>
         <description><![CDATA[Cars and Coffee Byron Bay - 2nd Sunday of each month]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cars-and-coffee-byronbay/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 09:25:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 25 Nov 2015 09:38:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cars-and-coffee-byronbay/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Adelaide&apos;s only Porsche 911 GT3RS at the Splash Car Wash" src="https://scontent.xx.fbcdn.net/hphotos-xft1/t31.0-0/p180x540/12304064_444896989033436_944543828939419039_o.jpg">]]></description>
+            <link>https://www.facebook.com/AdelaideCarSpotting/photos/a.133919066797898.1073741828.126921307497674/444896989033436/?type=3</link>
+            <guid isPermaLink="false">d423c059-1bdf-4fef-a122-99de3322676c</guid>
+            <pubDate>Wed, 25 Nov 2015 09:38:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[It's almost on us again]]></title>
             <description><![CDATA[<article><h1>It's almost on us again</h1><p>December 13, 2015.</p></article>]]></description>
-            <link>undefinedits-almost-on-us-again/index.html</link>
+            <link>https://thegrid.ai/cars-and-coffee-byronbay/its-almost-on-us-again/index.html</link>
             <guid isPermaLink="false">543f3d87-e1b3-43f6-a1a4-e0ff4f9e39ed</guid>
             <pubDate>Wed, 25 Nov 2015 09:25:28 GMT</pubDate>
         </item>
