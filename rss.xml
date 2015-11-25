@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Cars and Coffee Byron Bay - 2nd Sunday of each month]]></title>
+        <description><![CDATA[Cars and Coffee Byron Bay - 2nd Sunday of each month]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 25 Nov 2015 09:25:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[It's almost on us again]]></title>
+            <description><![CDATA[<article><h1>It's almost on us again</h1><p>December 13, 2015.</p></article>]]></description>
+            <link>undefinedits-almost-on-us-again/index.html</link>
+            <guid isPermaLink="false">543f3d87-e1b3-43f6-a1a4-e0ff4f9e39ed</guid>
+            <pubDate>Wed, 25 Nov 2015 09:25:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
