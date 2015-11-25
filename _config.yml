@@ -1,6 +1,6 @@
 name: Cars and Coffee ByronBay
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.74737
 typography_spectrum: 0.65482
 title: Cars and Coffee Byron Bay - 2nd Sunday of each month
 cta:
@@ -23,7 +23,7 @@ color:
     - '#2b2b2b'
     - '#b6b6b6'
   brandStrength: 0.7796175512485206
-  lightness: 0.8306049478705972
+  lightness: 0.75
   saturation: 0.26793966931290925
-  rhythmicContrast: 0.08288735593669116
+  rhythmicContrast: 0
 purpose: []
