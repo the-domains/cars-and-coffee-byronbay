@@ -1,7 +1,7 @@
 name: Cars and Coffee ByronBay
 favicon: null
 layout_spectrum: 0.08683224720880389
-typography_spectrum: 0.9354884577915072
+typography_spectrum: 0.65482
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#000000'
+    - '#ffffff'
+    - '#5b5b5b'
+    - '#2b2b2b'
+    - '#b6b6b6'
   brandStrength: 0.7796175512485206
   lightness: 0.8306049478705972
   saturation: 0.26793966931290925
